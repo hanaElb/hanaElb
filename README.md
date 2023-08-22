@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**hanaElb/hanaElb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Hana! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Computer Engineering major passionate about technology and AI. Here's a little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Node.js and the MERN stack as well as Machine Learning.
+- 👯 I’m looking to collaborate on ML projects
+- 📫 Here's my LinkedIn: www.linkedin.com/in/hana-elboghdady-26454020a
+- ⚡ Fun fact: I enjoy playing squash!
+
+## My Projects
+
+Here are some of the projects I've worked on:
+
+#### BusSys:(https://github.com/MustafaIsmail10/busSys) - worked on a collaborative bus routing system with a classmate. 
+- There were 4 phases of the project which included:
+1. Creating Class library
+2. Client–Server application
+3. Web application with static content
+4. Dynamic web application
+- For 1st phase we used python and wrote a command line test application demonstrating all features of the library.
+- In the 2nd phase using python we implemented a server application creating instances of the class library and let clients connect and interact with them.
+- In the 3rd phase we wrote a Django based web application to interact with a browser.
+- Lastly in the final phase we brought everything together after adding JavaScript, web sockets and CSS to enhance the user experience.

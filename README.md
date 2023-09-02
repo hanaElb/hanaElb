@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a Computer Engineering major passionate about 
 - 🌱 I’m currently learning Node.js and the MERN stack as well as Machine Learning.
 - 👯 I’m looking to collaborate on ML projects
 - 📫 Here's my LinkedIn: www.linkedin.com/in/hana-elboghdady-26454020a
-- ⚡ Fun fact: I enjoy playing squash!
 
 ## My Projects
 
